@@ -14,7 +14,7 @@
   - E.g., 1% one-year VaR of $10M means 1% chance that a portfolio will lose $10M in a year
 - _Stress Tests_
   - OFHEO (Office of Federal Housing Enterprise Oversight) started testing firms' ability to withstand economic crisis before the 2008 crisis failed
-  - Dodd Frank ACt 2010 requires the Federal Reserve to do annual stress tests for non-bank financial institutions it supervises for at least three different economic scenarios
+  - Dodd Frank Act 2010 requires the Federal Reserve to do annual stress tests for non-bank financial institutions it supervises for at least three different economic scenarios
 - _Beta_ is the regression slope coefficient when the return on the ith asset is regressed on the return on the market
   - The CAPM (Capital Asset Pricing Model) implies that the expected return on the ith asset is determined from it's beta
 - Variance of the return of a stock is equal to its beta squared times the variance of the market return (systematic risk) plus the variance of the residual in the regression (idiosyncratic risk)
