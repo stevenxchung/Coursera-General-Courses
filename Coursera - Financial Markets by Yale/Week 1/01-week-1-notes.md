@@ -53,3 +53,22 @@
   - Penalty for companies not buying insurance for their employees
   - New insurance exchanges; a health insurance exchange is a set of state-regulated standardized health care plan, from which individuals may purchase health insurance that is eligible for Federal subsidies
   - Insurance companies may not disallow for preexisting conditions or drop people who get sick
+
+## Lesson 4
+
+- _Portfolio Diversification_:
+  - All that should matter to an investor is the performance of the entire portfolio
+  - Mean and variance of the portfolio matter
+  - Law of large numbers means that spreading over many independent assets reduces risk, has no effect on expected return
+- _CAPM (Capital Asset Pricing Model)_:
+  - CAPM asserts that all investors hold their optimal portfolio
+  - Consequence of the mutual fund theorem: all investors hold the same portfolio of risky assets, the tangency portfolio
+  - Therefore the CAMP says that the tangency portfolio equals the market portfolio
+- _Equity Premium Puzzle_:
+  - US geometric average real stock market return 1802-2012: 6.6%
+  - US geometric average real short-term government return 1802-2012: 2.7%
+  - Equity premium = 6.6% - 2.7% = 3.9%
+  - Puzzle: why has equity premium been so high?
+- _Short Sales_:
+  - Brokers can enable you to hold a negative quantity of a tradable asset: they borrow the security and sell it, escrow the proceeds, you receive the proceeds, owe the security
+  - Short sales in the United States were briefly abolished in September 2008 for a list of 799 stocks
