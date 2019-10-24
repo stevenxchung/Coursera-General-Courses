@@ -9,11 +9,11 @@
 
 3. **In the Capital Asset Pricing Model (CAPM), a measure of systematic risk is captured by:** The Beta
 
-4. **Market (or systematic) risk `___` whereas idiosyncratic risk `___`**:
+4. **Market (or systematic) risk `___` whereas idiosyncratic risk `___`:**
 
    - Is the risk for an asset to experience losses due to factors that affect the entire stock market
    - Is the risk which is endemic to a specific asset and therefore not the market as a whole
 
-5. **Why might an investor not normally invest large sums of money into Walmart or Apple stock?** A: Their stock prices are highly volatile, and thus carry a lot of risk
+5. **Why might an investor not normally invest large sums of money into Walmart or Apple stock?** Their stock prices are highly volatile, and thus carry a lot of risk.
 
-6. **Why is the normal distribution not a good model of some financial data?** A: It does not have many outliers
+6. **Why is the normal distribution not a good model of some financial data?** It does not have many outliers.
