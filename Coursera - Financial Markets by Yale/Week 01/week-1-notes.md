@@ -1,5 +1,7 @@
 # Week 1
 
+> In this opening module, we learn the basics of financial markets, insurance, and CAPM (Capital Asset Pricing Model). This module serves as the foundation of this course.
+
 ## Lesson 1
 
 - Course will cover the following:
@@ -9,7 +11,7 @@
 
 ## Lesson 2
 
-- _VAR_ in finanace means two things, variance, and "value at risk" but when the A isn't capitalized (VaR) it means _value at risk_
+- _VAR_ in finance means two things, variance, and "value at risk" but when the A isn't capitalized (VaR) it means _value at risk_
   - Was invented after stock market crash of 1987
   - E.g., 1% one-year VaR of $10M means 1% chance that a portfolio will lose $10M in a year
 - _Stress Tests_
@@ -23,6 +25,10 @@
   - Can fail if shocks are fat tailed
   - Can fail if shocks lose their independence
 - Risk is determined by _covariance_ - a measurement of the directional relationship between the returns on two assets
+
+### Lesson 2 Mini Quizzes
+
+- **A Cauchy Distribution is a:** fat tail distribution.
 
 ## Lesson 3
 
@@ -54,6 +60,16 @@
   - New insurance exchanges; a health insurance exchange is a set of state-regulated standardized health care plan, from which individuals may purchase health insurance that is eligible for Federal subsidies
   - Insurance companies may not disallow for preexisting conditions or drop people who get sick
 
+### Lesson 3 Mini Quizzes
+
+- **Why were people initially hesitant to adopt life insurance?** It felt like gambling and betting on the life of a loved one.
+
+- **True or False: The McCarran-Ferguson Act of 1945 reduced the complexity of the insurance industry by consolidating regulation at the federal level.** False
+
+- **What was the key concern that led to the regulation of health insurance via the Health Maintenance Act of 1973?** Doctors received money when people were sick, and thus they were not incentivized to cure people.
+
+- **Before 9/11/2001, insurers:** Generally did not exclude terrorism risk, which they then saw as inconsequential.
+
 ## Lesson 4
 
 - _Portfolio Diversification_:
@@ -72,3 +88,17 @@
 - _Short Sales_:
   - Brokers can enable you to hold a negative quantity of a tradable asset: they borrow the security and sell it, escrow the proceeds, you receive the proceeds, owe the security
   - Short sales in the United States were briefly abolished in September 2008 for a list of 799 stocks
+
+### Lesson 4 Mini Quizzes
+
+- **The “equity premium puzzle:”**
+
+  - Defines the "equity premium” as equity returns minus bond returns
+  - Is supposed to reflect the relative risk of stocks compared to 'risk-free” government bonds
+
+- **In the Capital Asset Pricing Model (CAPM):**
+
+  - A stock cannot have an optimal holding value which is negative
+  - The optimal portfolio is on the “efficient portfolio frontier"
+
+- **The covariance between two assets is a measure of the degree to which these two assets move in tandem with each other. Which of the following is true?** When the covariance is negative, both assets tend to move in opposite direction. Hence, a negative covariance decreases the variance of your portfolio.
