@@ -36,3 +36,24 @@
   - Protects investors from currency instability
 
 - **In economics, money is often defined in terms of the:** Three functions it provides: a store of value, a unit of account and a medium of transaction.
+
+## Lesson 6
+
+- _Random Walk Hypothesis_:
+  - First coined by statistician Karl Pearson in the scientific journal Nature in 1905
+  - Is a process that changes in such a way that each change is independent of previous changes and totally unpredictable
+- _Harry Roberts, 1967_:
+  - Weak form efficiency: prices incorporate information about past prices
+  - Semi-strong form: incorporate all publicly available information
+  - Strong form: all information, including inside information
+- _Price as PDV (Present Discount Value) of Expected Dividends_:
+  - If earnings equal dividends and if dividends grow at long-run rate _g_. then by growing consol model ![P](images/01.gif), ![P/E (Gordon Model)](images/02.gif)
+  - Efficient markets theory purports to explain why P/E varies across stocks
+  - Low P/E does not mean that the stock is a bargain, it only means that earnings are rationally forecasted to decrease in future
+  - Efficient markets denies that any rule works
+
+### Lesson 6 Mini Quizzes
+
+- **Which of the following is NOT an implication of the Random walk hypothesis?** A graph of the S&P500 shows a steady rise over the past three years.
+
+- **What does the price-to-earnings ratio (P/E) tell you?** How much investors are willing to pay per unit of a company’s earnings.
