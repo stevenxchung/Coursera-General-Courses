@@ -33,7 +33,7 @@
 ## Lesson 3
 
 - _Risk pooling_ is the source of all value in insurance
-  - If _n_ policies, each has independent probability _p_ of a claim, then the number of claims follows the binomial distribution. The standard deviation of the fraction of policies that result in a claim is ![standard deviation](images/CodeCogsEqn.gif)
+  - If _n_ policies, each has independent probability _p_ of a claim, then the number of claims follows the binomial distribution. The standard deviation of the fraction of policies that result in a claim is ![standard deviation](images/01.gif)
   - _Law of large numbers_: as _n_ gets large, standard deviation approaches zero
 - Insurance principles and issues:
   - _Risk pooling_
