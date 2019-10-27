@@ -57,3 +57,17 @@
 - **Which of the following is NOT an implication of the Random walk hypothesis?** A graph of the S&P500 shows a steady rise over the past three years.
 
 - **What does the price-to-earnings ratio (P/E) tell you?** How much investors are willing to pay per unit of a company’s earnings.
+
+## Lesson 7
+
+- _From Theory of Moral Sentiments, Adam Smith, 1759 to Behavioral Economics_:
+  - Adam Smith: people have a desire for praise but don't enjoy being praised for something they did not do
+  - As people mature, if the mature successfully, the desire for praise morphs into a desire for praiseworthiness
+- _Prospect Theory_:
+  - Kahneman and Tversky, _Econometrica_ 1979
+  - Two elements: value function and weighting function
+  - Elements replicate utility function and probabilities in expected utility theory which has dominated economic thought
+
+### Lesson 7 Mini Quizzes
+
+- **What was the key motivation in developing prospect theory?** Psychology experiments do not align with the assumptions of traditional economics.
