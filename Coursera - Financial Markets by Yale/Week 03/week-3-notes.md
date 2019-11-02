@@ -46,3 +46,47 @@
    - Consols are risky debt securities. Even if the issuer of a consol never defaults, hence no default risk, there is still some market risk since the price of the consol is set by the market
 
 4. **True or False. The overall level of debt in the economy (hence leverage) rises in real value because of deflation.** True
+
+## Lesson 9
+
+- _The Corporation_: a body corporate legally authorized to act as a single individual, an artificial person created by royal charter, prescription, or act of legislature, and having authority to preserve certain rights in perpetual succession
+- _Board of Directors_:
+  - In US, Board is commonly chaired by CEO
+  - But CEO is hired by the board
+- _For-profit vs Non-profit_
+  - For-profit corporation is owned by shareholders, equal claim after debts paid, subject to corporate profits tax
+  - Non-profit is not owned, self-perpetuating directors, not subject to corporate profits tax
+  - For-profit exists to benefit shareholders, non-profit does not
+  - For-profit has a price per share, non-profit does not
+  - Ideally, for-profit has value only because the company is dedicated to advancing the shareholder, either through dividends or through share repurchase
+- _Meaning of Shares and Market Cap_:
+  - Ownership of company equals shares divided by total shares
+  - If company pays a dividend, the value of the share should go down by the amount of the dividend per share
+- _Common vs Preferred Stock_:
+  - Common stock: dividend is at discretion of firm, subject to legal restrictions
+  - Preferred stock: specified dividend does not have to be paid, but firm cannot pay dividend on common stock unless all past preferred stock dividends are paid
+  - Corporate bonds: firms are contractually obligated to pay coupons and there is a maturity date when principal must be paid
+- _How do Corporations raise money?_
+  - Company could issue new shares:
+    - This _dilutes_ existing shareholders since they now own a smaller fraction of the company but offsetting that, it creates new earning power for the company
+    - Shareholders at a meeting could vote on whether they think the prospective profits are worth the dilution, and prospective purchasers of the issue could ponder whether they feel the diluted shares are worth purchasing
+- _Dilution_:
+  - If the company gives away new shares, shares become worth less
+  - If the company sells new shares at market price, that generally does not lower the value of shares because the company has the money
+- _Share Repurchase_:
+  - The opposite of dilution, the value of the firm should go down by the amount they spent
+  - Shareholders own a larger share of the company
+  - If the firm repurchases shares instead of paying dividends, then the shares do not lose value, rather the company loses value but the shareholder has a bigger share in the company
+- _Price as PDV of Expected Dividends_:
+  - Efficient markets theory purports to explain why _P/E_ varies across stock in terms of _r_ and _g_ (long-run rate)
+  - Low _P/E_ does not mean that the stock is a bargain, rather it means that earnings are rationally forecasted to decrease in the future (low _g_) or that risk is high (high _r_)
+- _Why do firms pay Dividends?_
+  - Even when there was a stronger tax advantage to capital gains, firms paid dividends
+  - Framing matters, dividends are often framed as income
+
+### Lesson 9 Mini Quizzes
+
+1. **What is the difference between a for-profit and a non-profit corporation?**
+   - A for-profit corporation has a price per share, whereas a non-profit corporation is not traded in the market
+   - A for-profit corporation is subject to corporate profits tax, which is not the case for a non-profit corporation
+   - A for-profit corporation is owned by shareholders, whereas a non-profit corporation has self-perpetuating directors
