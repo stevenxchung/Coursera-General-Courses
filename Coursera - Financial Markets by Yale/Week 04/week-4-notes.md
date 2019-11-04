@@ -46,3 +46,45 @@
 2. **Which of the following is a reason that the 30 year mortgage rate is higher than the 10 year treasury bond YTM?** There are overhead costs to managing a mortgage.
 
 3. **What happened to new housing projects in 2007?** They had been increasing dramatically and then suddenly fell to a record low when the price of homes collapsed.
+
+## Lesson 11
+
+- _Regulation and Human Behavior_:
+  - Regulation is substantially aimed at dealing with human problems, manipulation and deception
+  - Regulation goes beyond this, in dealing also with making the system work better, such problems as monopoly and externalities, e.g., "too big to fail"
+- _Micro-prudential vs Macro-prudential regulation_:
+  - Most regulation prior to the 2007-2009 crisis emphasized micro-prudential
+  - Macro-prudential was nobody's business
+- _Five Levels of Financial Regulation_:
+  1. Within-firm regulation
+  2. Trade groups
+  3. Local government regulation
+  4. National government regulation
+  5. International regulation
+- _How tunneling is achieved_:
+  - Asset sales
+  - Contracts, as for prices paid for inputs
+  - Excessive executive compensation
+  - Loan guarantees
+  - Expropriation of corporate opportunities
+  - Dilutive share issues
+  - Insider trading
+- _Blue Sky Laws_:
+  - Enacted in Kansas in 1911, regulates offering and sale of securities to protect the public from fraud, regulates brokers and advisers
+  - Require registration of securities
+- _SEC (Securities and Exchange Commission) Rules_:
+  - Every broker must register with SEC
+  - Every stock exchange must register
+  - Every security must register
+  - Registration does not literally mean SEC approval
+- _SIPC (Securities Investor Protection Corporation_:
+  - Created by US Congress 1970
+  - Protects customers of brokerage firm or clearinghouse against failure up to $500,000 per account, $100,00 for cash
+  - Pays more to the lawyers than to claimants which has led to criticism
+  - Disallows claims that were not filed "promptly" and extremely slow to pay
+
+### Lesson 11 Mini Quizzes
+
+1. **Is common law or civil law better at dealing with tunneling, and why?** Common law, because it deals better with specific disputes, and tunneling is often subtle.
+
+2. **Which of the following does NOT describe the Securities Investor Protection Corporation?** They are quick to pay and will work with you to correct improperly filed claims.
