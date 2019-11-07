@@ -12,5 +12,18 @@
   - Futures contracts differ from forward contracts in that contractors deal with an exchange rather than each other, and thus do not ned to assess each others' credit
   - Futures contracts are standardized retail products, rather than custom products
   - Futures contracts rely on margin calls to guarantee performance
+- _Buying or Selling Futures_:
+  - When one "buys" a futures contract, one agrees with the exchange to a daily settlement procedure that is only loosely analogous to buying the commodity. One must post initial margin with the futures commission merchant
+  - Usually, one has no intention of taking delivery of the commodity
+  - Same as when one "sells" a futures contract, no intention of selling the commodity. Again, post margin
+- _Daily Settlement_:
+  - Every day, the exchange defines a price called the "settle" price, which is the last trade on that day
+  - Every day until expiration a buyer's margin account is credited (or debited if negative) which the amount: change in settle price by some contract amount
+  - If contract is cash settled on the last dat the margin account is credited with (cash settle price-last settle price) some contract amount
+  - If contract is physical delivery, on the last day buyer must receive commodity
+- _Fair Value in Futures Contract_:
+  - Futures price is normally above cash price, the fair value is given by: ![fair value in futures contract](images/01.gif), where _r_ is interest rate, _s_ is storage cost, and _r + s_ is cost of carry
 
 ### Lesson 12 Mini Quizzes
+
+1. **True or False. Speculators are compared to gamblers because they risk money for entertainment.** False, speculation is more intellectual than gambling and involves distinguishing which markets are over- or under-valued.
