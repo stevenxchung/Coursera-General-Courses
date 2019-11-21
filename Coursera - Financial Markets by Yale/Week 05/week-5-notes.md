@@ -9,7 +9,7 @@
   - Example: rice farmer sells rice to warehouser
   - Both sides are locked into the contract, no liquidity
 - _Future Contracts_:
-  - Futures contracts differ from forward contracts in that contractors deal with an exchange rather than each other, and thus do not ned to assess each others' credit
+  - Futures contracts differ from forward contracts in that contractors deal with an exchange rather than each other, and thus do not need to assess each others' credit
   - Futures contracts are standardized retail products, rather than custom products
   - Futures contracts rely on margin calls to guarantee performance
 - _Buying or Selling Futures_:
