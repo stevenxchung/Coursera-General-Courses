@@ -28,7 +28,7 @@
 
 ### Lesson 2 Mini Quizzes
 
-- **A Cauchy Distribution is a:** fat tail distribution.
+1. **A Cauchy Distribution is a:** fat tail distribution.
 
 ## Lesson 3
 
@@ -62,13 +62,13 @@
 
 ### Lesson 3 Mini Quizzes
 
-- **Why were people initially hesitant to adopt life insurance?** It felt like gambling and betting on the life of a loved one.
+1. **Why were people initially hesitant to adopt life insurance?** It felt like gambling and betting on the life of a loved one.
 
-- **True or False: The McCarran-Ferguson Act of 1945 reduced the complexity of the insurance industry by consolidating regulation at the federal level.** False
+2. **True or False: The McCarran-Ferguson Act of 1945 reduced the complexity of the insurance industry by consolidating regulation at the federal level.** False
 
-- **What was the key concern that led to the regulation of health insurance via the Health Maintenance Act of 1973?** Doctors received money when people were sick, and thus they were not incentivized to cure people.
+3. **What was the key concern that led to the regulation of health insurance via the Health Maintenance Act of 1973?** Doctors received money when people were sick, and thus they were not incentivized to cure people.
 
-- **Before 9/11/2001, insurers:** Generally did not exclude terrorism risk, which they then saw as inconsequential.
+4. **Before 9/11/2001, insurers:** Generally did not exclude terrorism risk, which they then saw as inconsequential.
 
 ## Lesson 4
 
@@ -91,14 +91,14 @@
 
 ### Lesson 4 Mini Quizzes
 
-- **The “equity premium puzzle:”**
+1. **The “equity premium puzzle:”**
 
-  - Defines the "equity premium” as equity returns minus bond returns
-  - Is supposed to reflect the relative risk of stocks compared to 'risk-free” government bonds
+   - Defines the "equity premium” as equity returns minus bond returns
+   - Is supposed to reflect the relative risk of stocks compared to 'risk-free” government bonds
 
-- **In the Capital Asset Pricing Model (CAPM):**
+2. **In the Capital Asset Pricing Model (CAPM):**
 
-  - A stock cannot have an optimal holding value which is negative
-  - The optimal portfolio is on the “efficient portfolio frontier"
+   - A stock cannot have an optimal holding value which is negative
+   - The optimal portfolio is on the “efficient portfolio frontier"
 
-- **The covariance between two assets is a measure of the degree to which these two assets move in tandem with each other. Which of the following is true?** When the covariance is negative, both assets tend to move in opposite direction. Hence, a negative covariance decreases the variance of your portfolio.
+3. **The covariance between two assets is a measure of the degree to which these two assets move in tandem with each other. Which of the following is true?** When the covariance is negative, both assets tend to move in opposite direction. Hence, a negative covariance decreases the variance of your portfolio.
