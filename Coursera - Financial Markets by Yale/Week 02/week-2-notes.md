@@ -24,18 +24,18 @@
 
 ### Lesson 5 Mini Quizzes
 
-- **The concept of "limited liability” posits that:**
+1. **The concept of "limited liability” posits that:**
 
-  - Investors, in order to be encouraged to invest in businesses, should be protected against liability for what the managers of the business do
-  - Investors in stocks cannot be pursued for the mistakes of the company they are investing in
-  - A limited liability enterprise can be divided into shares, and no shareholder is liable for more than he or she puts in
+   - Investors, in order to be encouraged to invest in businesses, should be protected against liability for what the managers of the business do
+   - Investors in stocks cannot be pursued for the mistakes of the company they are investing in
+   - A limited liability enterprise can be divided into shares, and no shareholder is liable for more than he or she puts in
 
-- **Indexing the value of debt to an index:**
+2. **Indexing the value of debt to an index:**
 
-  - Is a better indexation method than indexing debt to a single commodity with a potentially unstable price evolution
-  - Protects investors from currency instability
+   - Is a better indexation method than indexing debt to a single commodity with a potentially unstable price evolution
+   - Protects investors from currency instability
 
-- **In economics, money is often defined in terms of the:** Three functions it provides: a store of value, a unit of account and a medium of transaction.
+3. **In economics, money is often defined in terms of the:** Three functions it provides: a store of value, a unit of account and a medium of transaction.
 
 ## Lesson 6
 
@@ -54,9 +54,9 @@
 
 ### Lesson 6 Mini Quizzes
 
-- **Which of the following is NOT an implication of the Random walk hypothesis?** A graph of the S&P500 shows a steady rise over the past three years.
+1. **Which of the following is NOT an implication of the Random walk hypothesis?** A graph of the S&P500 shows a steady rise over the past three years.
 
-- **What does the price-to-earnings ratio (P/E) tell you?** How much investors are willing to pay per unit of a company’s earnings.
+2. **What does the price-to-earnings ratio (P/E) tell you?** How much investors are willing to pay per unit of a company’s earnings.
 
 ## Lesson 7
 
@@ -70,4 +70,4 @@
 
 ### Lesson 7 Mini Quizzes
 
-- **What was the key motivation in developing prospect theory?** Psychology experiments do not align with the assumptions of traditional economics.
+1. **What was the key motivation in developing prospect theory?** Psychology experiments do not align with the assumptions of traditional economics.
