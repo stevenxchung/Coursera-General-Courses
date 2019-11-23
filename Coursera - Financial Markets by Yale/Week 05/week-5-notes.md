@@ -27,3 +27,25 @@
 ### Lesson 12 Mini Quizzes
 
 1. **True or False. Speculators are compared to gamblers because they risk money for entertainment.** False, speculation is more intellectual than gambling and involves distinguishing which markets are over- or under-valued.
+
+## Lesson 13
+
+- _Two basic kinds of Options:_
+  - Calls: a right to buy
+  - Put: a right to sell
+- _Options_:
+  - One pays money to have a choice in the future
+  - Essentially, you buy the ability to exercise free will, the choice one makes depends only on the underlying asset price
+  - Options are truncated claims on assets
+- _Why have options?_
+  - Salience and attention
+  - People buy insurance, do not want to give up up-side of investment
+  - Peace of mind, with put option
+
+### Lesson 13 Mini Quizzes
+
+1. **Which of the following correctly defines bid price, asking price, and last price?**
+
+- "Ask" is the price to purchase an option
+- "Bid" is the price to sell the option back to the dealer
+- "Last" is the last price the option was sold for
