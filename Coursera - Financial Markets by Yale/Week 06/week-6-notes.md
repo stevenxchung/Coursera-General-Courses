@@ -16,9 +16,15 @@
 - _IPO (Initial Public Offerings)_:
   - Price tends to jump up immediately after and IPO is issued
   - Apparently leave money upon the table
+- _Glass-Steagall Act 1933_:
+  - The modern concept of "investment bank" was created in the Glass-Steagall Act (Banking Act of 1933), this separated commercial banks, investment banks, and insurance companies
+  - Created FDIC
+  - Was repealed by President Clinton in 1999 via Graham-Leach Bill
 
 ### Lesson 14 Mini Quizzes
 
-1. **Which of the following is a service traditionally provided by investment banks?** Underwriting securities
+1. **Which of the following is a service traditionally provided by investment banks?** Underwriting securities.
 
-2. **What was the original guiding principle of Goldman Sachs?** To make money
+2. **What was the original guiding principle of Goldman Sachs?** To make money.
+
+3. **What is the difference between a financial planner and a financial advisor?** A financial planner offers comprehensive planning for life, whereas a financial advisor advises on the value of securities.
