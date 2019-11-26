@@ -28,3 +28,27 @@
 2. **What was the original guiding principle of Goldman Sachs?** To make money.
 
 3. **What is the difference between a financial planner and a financial advisor?** A financial planner offers comprehensive planning for life, whereas a financial advisor advises on the value of securities.
+
+## Lesson 15
+
+- _Broker_: acts on behalf of others as their agent for which they earn a commission
+- _Dealer_: always acts for himself, in other words as a principal in the transaction for which he makes a markup
+- _Broker-Dealer_:
+  - A firm doing business as a broker or dealer must register with the SEC
+  - A person can never be both a broker and a dealer in the same transaction
+  - Never make both a commission and a markup on the same trade
+- _Exchanges_:
+  - NYSE (New York Stock Exchange), established in 1792 by the Buttonwood Agreement among 24 brokers
+  - Provides stands and codes of ethics for broker members and standards for stocks
+  - Must register and are regulated by SEC
+  - Listing and de-listing requirements for stocks
+- _High Frequency Trading_:
+  - Computer programs can trade algorithmically
+  - Trades can be flashed for a millisecond and only computers will respond
+  - Speed of transmission matters
+  - Fully automated markets gaining ground over less automated markets such as NYSE
+- _Payment for Order Flow_:
+  - Brokers drum up orders, deal with customers
+  - Brokers sell the order flow to crossing networks, who profit from the order flow
+  - In 2000, SEC posted rules that brokers must post composite statistics on fraction of order flow going to various places
+  - Firms must also report statistics on their order-execution quality
