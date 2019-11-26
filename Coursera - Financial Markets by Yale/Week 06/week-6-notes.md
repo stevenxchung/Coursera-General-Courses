@@ -52,3 +52,9 @@
   - Brokers sell the order flow to crossing networks, who profit from the order flow
   - In 2000, SEC posted rules that brokers must post composite statistics on fraction of order flow going to various places
   - Firms must also report statistics on their order-execution quality
+
+### Lesson 15 Mini Quizzes
+
+1. **The most prestigious stock exchange in the U.S. is considered to be:** The New York Stock Exchange (NYSE)
+
+2. **The bid and ask quotes of the limit order book originate from:** Anyone who is registered to trade on the exchange.
