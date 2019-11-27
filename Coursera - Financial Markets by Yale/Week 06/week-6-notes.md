@@ -58,3 +58,18 @@
 1. **The most prestigious stock exchange in the U.S. is considered to be:** The New York Stock Exchange (NYSE)
 
 2. **The bid and ask quotes of the limit order book originate from:** Anyone who is registered to trade on the exchange.
+
+## Lesson 16
+
+- _Carmen Reinhart on Sovereign Default_:
+  - Public misunderstands default - rarely do governments repudiate entire debt
+  - More common is that governments inflate the currency
+- _Bankruptcy laws make government a shareholder in all businesses_:
+  - Chapter 7 - Liquidation
+  - Chapter 11 - Reorganization
+- _Social (Government) Insurance_:
+  - Progressive taxes (US 1913)
+  - Free public education and services
+  - Social Security: OASDI (Old Age, Survivors, and Disability Insurance) in US, 1935
+  - Health Insurance: Medicare, Medicaid (US, both in 1965) US is only major developed country without comprehensive health insurance
+  - Workers compensation (US before 1920)
