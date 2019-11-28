@@ -73,3 +73,7 @@
   - Social Security: OASDI (Old Age, Survivors, and Disability Insurance) in US, 1935
   - Health Insurance: Medicare, Medicaid (US, both in 1965) US is only major developed country without comprehensive health insurance
   - Workers compensation (US before 1920)
+
+### Lesson 16 Mini Quizzes
+
+1. **Why did the first attempt at establishing an income tax in the U.S. failed after the Civil War?** Only a small percentage of eligible taxpayers actually paid, because fraud was easy and widespread.
