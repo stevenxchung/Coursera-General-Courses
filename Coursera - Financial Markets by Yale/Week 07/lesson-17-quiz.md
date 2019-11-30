@@ -17,5 +17,6 @@
 
    - Cooperatives tend to charge higher prices or lower wages to their employees
    - Cooperatives aim to maximize the welfare of the group
+   - Cooperatives are rarely successful
 
 5. **A benefit corporation is halfway between:** For-profit and not-for-profit organizations.
