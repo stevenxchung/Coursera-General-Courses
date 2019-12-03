@@ -33,6 +33,7 @@
     - The most exciting prospect is that the developing world is catching up
     - Financial markets will be everywhere, dominating people's lives
     - Financial booms and crashes will be bigger than ever before!
-  - Maintain and orientation towards history in the making rather than to one's own point in the life cycle
-  - Maintain human capital, strategically oriented
-  - Maintain humanity in an unforgiving business world
+  - On human capital, positioning, and meaning:
+    - Maintain and orientation towards history in the making rather than to one's own point in the life cycle
+    - Maintain human capital, strategically oriented
+    - Maintain humanity in an unforgiving business world
